@@ -10,5 +10,11 @@
     { "name": "Carrots", "src": "/images/carrots.jpg" },
     { "name": "Latte art", "src": "/images/latte-art.jpg" },
     { "name": "Noodles", "src": "/images/noodles.jpg" },
-    { "name": "Branches", "src": "/images/branches.png" }
+    { "name": "gallery", "src": "/images/gallery4.jpg" }
+    { "name": "Hero", "src": "/images/hero_web.jpg" }
+    { "name": "Hero1", "src": "/images/hero_web1.jpg" }
+    { "name": "Bianca", "src": "/images/inpiedibianca.jpg" }
+    { "name": "Mani", "src": "/images/mani.jpg" }
+    { "name": "Normale", "src": "/images/normale.jpg" }
+
 ]
